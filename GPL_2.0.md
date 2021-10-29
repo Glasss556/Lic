@@ -2,7 +2,7 @@ GNU General Public License
 ==========================
 
 _Version 2, June 1991_  
-_Copyright © 2021, Yurii(Door2#1339),_  
+_Copyright © 2021, Yurii,_  
 _51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA_
 
 Everyone is permitted to copy and distribute verbatim copies
